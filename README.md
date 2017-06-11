@@ -1,6 +1,6 @@
 # Huffman Code Lite
 a simplify huffman coding
-## Input
+## Example
 The very first integere is the number of character.
 
 Following pairs are <character, frequence>.
