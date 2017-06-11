@@ -1,5 +1,5 @@
 # Huffman Code Lite
-a simplify huffman coding
+a simplified huffman coding
 ## Example
 The very first integere is the number of character.
 
