@@ -1,9 +1,9 @@
 # Huffman Code Lite
 a simplified huffman coding
 ## Example
-The very first integere is the number of character.
+The very first integer is the number of character.
 
-Following pairs are <character, frequence>.
+Following pairs are < character, frequency >.
 
 The last binary string is the text we want to decode.
 
