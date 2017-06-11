@@ -113,7 +113,7 @@ public:
 	void print_codes() {
 		map<char, string>::iterator it;
 		for (it = codes.begin(); it != codes.end(); it++) {
-			cout << it->first << " : " << it->second << endl;
+			cout << it->first << " " << it->second << endl;
 		}
 	}
 
